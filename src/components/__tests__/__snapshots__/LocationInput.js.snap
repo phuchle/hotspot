@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LocationInput renders without crashing 1`] = `
+<form
+  className="form-inline"
+  onSubmit={[Function]}
+  style={undefined}
+>
+  <input
+    className="form-control"
+    id={undefined}
+    onChange={[Function]}
+    placeholder="Drinks"
+    style={
+      Object {
+        "marginRight": "10px",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <input
+    className="form-control"
+    id={undefined}
+    onChange={[Function]}
+    placeholder="San Jose, CA"
+    style={
+      Object {
+        "marginRight": "10px",
+      }
+    }
+    type="text"
+    value=""
+  />
+  <button
+    className="btn btn-success"
+    disabled={false}
+    type="submit"
+  >
+    Search!
+  </button>
+</form>
+`;
