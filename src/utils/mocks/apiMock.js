@@ -87,7 +87,7 @@ export const mockFoursquareResponse = {
                         "shortName": "American",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -99,7 +99,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2613,
                         "tipCount": 86
                     },
-                    "url": "http:\/\/www.jackthehorse.com",
+                    "url": "http://www.jackthehorse.com",
                     "price":
                     {
                         "tier": 3,
@@ -114,8 +114,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/jack-the-horse-tavern\/4471bf9af964a5209c331fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4471bf9af964a5209c331fe3\/device_menu"
+                        "url": "https://foursquare.com/v/jack-the-horse-tavern/4471bf9af964a5209c331fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4471bf9af964a5209c331fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -150,10 +150,10 @@ export const mockFoursquareResponse = {
                 {
                     "id": "4d751af4c54e8eec17115735",
                     "createdAt": 1299520244,
-                    "text": "PHOTO: Did you know the house from \"Moonstruck\" is right down the block at 19 Cranberry?  Here's Cher and Nicholas Cage on the set in 1987, at the link!",
+                    "text": "PHOTO: Did you know the house from 'Moonstruck' is right down the block at 19 Cranberry?  Here's Cher and Nicholas Cage on the set in 1987, at the link!",
                     "type": "user",
-                    "url": "http:\/\/nydn.us\/ePXFGq",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4d751af4c54e8eec17115735",
+                    "url": "http://nydn.us/ePXFGq",
+                    "canonicalUrl": "https://foursquare.com/item/4d751af4c54e8eec17115735",
                     "likes":
                     {
                         "count": 25,
@@ -174,8 +174,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/3EV01452MGIUWBAQ.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/3EV01452MGIUWBAQ.jpg"
                         },
                         "type": "page"
                     }
@@ -228,7 +228,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -240,7 +240,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 201,
                         "tipCount": 6
                     },
-                    "url": "http:\/\/jackthehorse.com\/oyster_room\/",
+                    "url": "http://jackthehorse.com/oyster_room/",
                     "price":
                     {
                         "tier": 2,
@@ -280,7 +280,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1473552349,
                     "text": "Try the Oysters!!!!!!!!",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/57d49fdd498e2c3f0d74154a",
+                    "canonicalUrl": "https://foursquare.com/item/57d49fdd498e2c3f0d74154a",
                     "logView": true,
                     "agreeCount": 0,
                     "disagreeCount": 0,
@@ -295,8 +295,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/135753-3EOEOKLGUW2ZYUSD.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/135753-3EOEOKLGUW2ZYUSD.jpg"
                         }
                     }
                 }],
@@ -354,7 +354,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Pizza",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/pizza_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -366,7 +366,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 1186,
                         "tipCount": 44
                     },
-                    "url": "http:\/\/www.dellaroccospizza.com",
+                    "url": "http://www.dellaroccospizza.com",
                     "price":
                     {
                         "tier": 2,
@@ -381,8 +381,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/dellaroccos\/5012043564a4944f5c47738a\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/5012043564a4944f5c47738a\/device_menu"
+                        "url": "https://foursquare.com/v/dellaroccos/5012043564a4944f5c47738a/menu",
+                        "mobileUrl": "https://foursquare.com/v/5012043564a4944f5c47738a/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -420,7 +420,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1352584794,
                     "text": "Best pizza in Brooklyn Heights",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/509ece5ae4b083e9a5840356",
+                    "canonicalUrl": "https://foursquare.com/item/509ece5ae4b083e9a5840356",
                     "likes":
                     {
                         "count": 4,
@@ -441,8 +441,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/CFAQA5B2AN0UCULF.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/CFAQA5B2AN0UCULF.jpg"
                         }
                     }
                 }],
@@ -495,7 +495,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Hotel Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/hotel_bar_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_bar_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -507,7 +507,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 261,
                         "tipCount": 4
                     },
-                    "url": "https:\/\/www.1hotels.com\/brooklyn-bridge\/1-rooftop",
+                    "url": "https://www.1hotels.com/brooklyn-bridge/1-rooftop",
                     "price":
                     {
                         "tier": 3,
@@ -547,7 +547,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1501262812,
                     "text": "Great views on a great day. Expensive but nice if you just want to chill out.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/597b73dc4382ab1ec430cc96",
+                    "canonicalUrl": "https://foursquare.com/item/597b73dc4382ab1ec430cc96",
                     "logView": true,
                     "agreeCount": 0,
                     "disagreeCount": 0,
@@ -563,8 +563,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/DHP01RQAHOVNTO40.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/DHP01RQAHOVNTO40.jpg"
                         }
                     }
                 }],
@@ -623,7 +623,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Café",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -635,7 +635,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2992,
                         "tipCount": 137
                     },
-                    "url": "http:\/\/iriscafe.nyc",
+                    "url": "http://iriscafe.nyc",
                     "price":
                     {
                         "tier": 2,
@@ -650,8 +650,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/iris-cafe\/4b085df4f964a520300a23e3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4b085df4f964a520300a23e3\/device_menu"
+                        "url": "https://foursquare.com/v/iris-cafe/4b085df4f964a520300a23e3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4b085df4f964a520300a23e3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -686,10 +686,10 @@ export const mockFoursquareResponse = {
                 {
                     "id": "53df9d76498eeb33dc7cd385",
                     "createdAt": 1407163766,
-                    "text": "The Brooklyn Heights restaurant offers a \u201clovely dinner service that\u2019s conversant in the clichés of the borough\u2014think kale croquettes\u2014but never succumbs to them.\u201d",
+                    "text": "The Brooklyn Heights restaurant offers a u201clovely dinner service thatu2019s conversant in the clichés of the boroughu2014think kale croquettesu2014but never succumbs to them.u201d",
                     "type": "user",
-                    "url": "http:\/\/www.newyorker.com\/magazine\/2014\/08\/11\/iris-cafe-store-9",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/53df9d76498eeb33dc7cd385",
+                    "url": "http://www.newyorker.com/magazine/2014/08/11/iris-cafe-store-9",
+                    "canonicalUrl": "https://foursquare.com/item/53df9d76498eeb33dc7cd385",
                     "photo":
                     {
                         "id": "53df9ed011d256413b054a9d",
@@ -697,15 +697,15 @@ export const mockFoursquareResponse = {
                         "source":
                         {
                             "name": "Foursquare Web",
-                            "url": "https:\/\/foursquare.com"
+                            "url": "https://foursquare.com"
                         },
-                        "prefix": "https:\/\/igx.4sqi.net\/img\/general\/",
-                        "suffix": "\/2611536_lKK03QBE7rfoXhDvJmLFttpo6zmKWYPmN0f9KTANBsM.jpg",
+                        "prefix": "https://igx.4sqi.net/img/general/",
+                        "suffix": "/2611536_lKK03QBE7rfoXhDvJmLFttpo6zmKWYPmN0f9KTANBsM.jpg",
                         "width": 320,
                         "height": 180,
                         "visibility": "public"
                     },
-                    "photourl": "https:\/\/igx.4sqi.net\/img\/general\/original\/2611536_lKK03QBE7rfoXhDvJmLFttpo6zmKWYPmN0f9KTANBsM.jpg",
+                    "photourl": "https://igx.4sqi.net/img/general/original/2611536_lKK03QBE7rfoXhDvJmLFttpo6zmKWYPmN0f9KTANBsM.jpg",
                     "likes":
                     {
                         "count": 7,
@@ -727,8 +727,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/2611536-ZWKHMEGCZWBA3QQY.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/2611536-ZWKHMEGCZWBA3QQY.png"
                         },
                         "type": "page"
                     }
@@ -782,7 +782,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Wine Shop",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_wineshop_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_wineshop_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -825,9 +825,9 @@ export const mockFoursquareResponse = {
                 {
                     "id": "4cf90d6fbcdea090b142ef1f",
                     "createdAt": 1291390319,
-                    "text": "The first thing you\u2019ll notice upon entering their acclaimed digs? A 1967 Ferrari parked smack in the middle of the store, its trunk propped open to reveal dozens of hand-selected wines from Italy.",
+                    "text": "The first thing youu2019ll notice upon entering their acclaimed digs? A 1967 Ferrari parked smack in the middle of the store, its trunk propped open to reveal dozens of hand-selected wines from Italy.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4cf90d6fbcdea090b142ef1f",
+                    "canonicalUrl": "https://foursquare.com/item/4cf90d6fbcdea090b142ef1f",
                     "likes":
                     {
                         "count": 5,
@@ -848,8 +848,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/J15FVNBKSX1MTWNT.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/J15FVNBKSX1MTWNT.jpg"
                         },
                         "type": "page"
                     }
@@ -908,7 +908,7 @@ export const mockFoursquareResponse = {
                         "shortName": "American",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -920,7 +920,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2578,
                         "tipCount": 71
                     },
-                    "url": "http:\/\/www.tradingpostnyc.com",
+                    "url": "http://www.tradingpostnyc.com",
                     "price":
                     {
                         "tier": 2,
@@ -933,7 +933,7 @@ export const mockFoursquareResponse = {
                     "delivery":
                     {
                         "id": "29420",
-                        "url": "http:\/\/www.seamless.com\/food-delivery\/restaurant.29420.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+                        "url": "http://www.seamless.com/food-delivery/restaurant.29420.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
                         "provider":
                         {
                             "name": "seamless"
@@ -944,9 +944,9 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/trading-post\/51abad1c7dd28f673d21bbf4\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/51abad1c7dd28f673d21bbf4\/device_menu",
-                        "externalUrl": "http:\/\/www.tradingpostnyc.com\/#!menus\/c14zr"
+                        "url": "https://foursquare.com/v/trading-post/51abad1c7dd28f673d21bbf4/menu",
+                        "mobileUrl": "https://foursquare.com/v/51abad1c7dd28f673d21bbf4/device_menu",
+                        "externalUrl": "http://www.tradingpostnyc.com/#!menus/c14zr"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -990,7 +990,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1374076146,
                     "text": "Great menu with serious, perfectly prepared food in a beautifully renovated and comfortable setting.  Must try the heirloom tomato, watermelon & feta salad with balsamic drizzle!",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/51e6bcf2498e7de23cab435b",
+                    "canonicalUrl": "https://foursquare.com/item/51e6bcf2498e7de23cab435b",
                     "likes":
                     {
                         "count": 5,
@@ -1012,8 +1012,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/XRXUEOB550K4HAAF.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/XRXUEOB550K4HAAF.jpg"
                         }
                     }
                 }],
@@ -1068,7 +1068,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Seafood",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/seafood_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1080,7 +1080,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 1744,
                         "tipCount": 55
                     },
-                    "url": "http:\/\/www.downtownny.com\/fish-market",
+                    "url": "http://www.downtownny.com/fish-market",
                     "price":
                     {
                         "tier": 1,
@@ -1130,7 +1130,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1352823513,
                     "text": "This place open again after Sandy flooded it with 8 feet of water. Fortune had a happy hour there to celebrate. It's one of many local Seaport businesses that will need support in the coming months.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/50a272d9e4b0cb88f63a530e",
+                    "canonicalUrl": "https://foursquare.com/item/50a272d9e4b0cb88f63a530e",
                     "likes":
                     {
                         "count": 20,
@@ -1151,8 +1151,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/4F2WO3CGZ1HKXWM3.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/4F2WO3CGZ1HKXWM3.png"
                         },
                         "type": "page"
                     }
@@ -1212,7 +1212,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Juice Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/juicebar_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1224,7 +1224,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 669,
                         "tipCount": 20
                     },
-                    "url": "http:\/\/www.lizzmonade.com\/",
+                    "url": "http://www.lizzmonade.com/",
                     "price":
                     {
                         "tier": 2,
@@ -1239,9 +1239,9 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "http:\/\/www.listingextensions.com\/f43115baa3\/466628050\/menu",
-                        "mobileUrl": "http:\/\/www.listingextensions.com\/f43115baa3\/466628050\/menu",
-                        "externalUrl": "http:\/\/www.listingextensions.com\/f43115baa3\/466628050\/menu"
+                        "url": "http://www.listingextensions.com/f43115baa3/466628050/menu",
+                        "mobileUrl": "http://www.listingextensions.com/f43115baa3/466628050/menu",
+                        "externalUrl": "http://www.listingextensions.com/f43115baa3/466628050/menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -1273,7 +1273,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1408367007,
                     "text": "Хорошее обслуживание и вкусно",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/53f1f99f498e99fa6d5861fc",
+                    "canonicalUrl": "https://foursquare.com/item/53f1f99f498e99fa6d5861fc",
                     "likes":
                     {
                         "count": 1,
@@ -1295,8 +1295,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/blank_boy.png",
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/blank_boy.png",
                             "default": true
                         }
                     }
@@ -1354,7 +1354,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1366,7 +1366,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 4129,
                         "tipCount": 101
                     },
-                    "url": "http:\/\/freshsalt.com\/wp\/",
+                    "url": "http://freshsalt.com/wp/",
                     "price":
                     {
                         "tier": 1,
@@ -1381,8 +1381,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/fresh-salt\/49e7b63df964a5200e651fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/49e7b63df964a5200e651fe3\/device_menu"
+                        "url": "https://foursquare.com/v/fresh-salt/49e7b63df964a5200e651fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/49e7b63df964a5200e651fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -1419,7 +1419,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1370046706,
                     "text": "I stayed in this bar for twelve hours once.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/51a940f2498e2fe96b68ed17",
+                    "canonicalUrl": "https://foursquare.com/item/51a940f2498e2fe96b68ed17",
                     "likes":
                     {
                         "count": 15,
@@ -1441,8 +1441,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/4701489-RXUPMQU1LQ3M4LK3.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/4701489-RXUPMQU1LQ3M4LK3.jpg"
                         }
                     }
                 }],
@@ -1497,7 +1497,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1509,7 +1509,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 3618,
                         "tipCount": 71
                     },
-                    "url": "http:\/\/www.nelsonblue.com",
+                    "url": "http://www.nelsonblue.com",
                     "price":
                     {
                         "tier": 2,
@@ -1524,8 +1524,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/nelson-blue\/46627c04f964a52069471fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/46627c04f964a52069471fe3\/device_menu"
+                        "url": "https://foursquare.com/v/nelson-blue/46627c04f964a52069471fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/46627c04f964a52069471fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -1564,7 +1564,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1265588008,
                     "text": "Go to Nelson Blue & try the New Zealand lollipop lamb chops. Mouth-wateringly delish.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4b6f572870c603bbb6c191b4",
+                    "canonicalUrl": "https://foursquare.com/item/4b6f572870c603bbb6c191b4",
                     "likes":
                     {
                         "count": 4,
@@ -1586,8 +1586,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/2011_1236982719.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/2011_1236982719.jpg"
                         }
                     }
                 }],
@@ -1645,7 +1645,7 @@ export const mockFoursquareResponse = {
                         "shortName": "American",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1657,7 +1657,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 3241,
                         "tipCount": 78
                     },
-                    "url": "http:\/\/atriumdumbo.com",
+                    "url": "http://atriumdumbo.com",
                     "price":
                     {
                         "tier": 3,
@@ -1672,8 +1672,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/atrium-dumbo\/51dd7c69498ee00b70fa54b8\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/51dd7c69498ee00b70fa54b8\/device_menu"
+                        "url": "https://foursquare.com/v/atrium-dumbo/51dd7c69498ee00b70fa54b8/menu",
+                        "mobileUrl": "https://foursquare.com/v/51dd7c69498ee00b70fa54b8/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -1709,10 +1709,10 @@ export const mockFoursquareResponse = {
                 {
                     "id": "522e535611d2efaf50ea1e04",
                     "createdAt": 1378767702,
-                    "text": "\"Many of the dishes are downright heavy, oddly wintery for an end-of-summer meal by the water. Which is not to say that the results aren\u2019t frequently, even disconcertingly, satisfying.\"",
+                    "text": "'Many of the dishes are downright heavy, oddly wintery for an end-of-summer meal by the water. Which is not to say that the results arenu2019t frequently, even disconcertingly, satisfying.'",
                     "type": "user",
-                    "url": "http:\/\/www.newyorker.com\/arts\/reviews\/tables\/2013\/09\/16\/130916gota_GOAT_tables_lester",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/522e535611d2efaf50ea1e04",
+                    "url": 'http://www.newyorker.com/arts/reviews/tables/2013/09/16/130916gota_GOAT_tables_lester',
+                    "canonicalUrl": "https://foursquare.com/item/522e535611d2efaf50ea1e04",
                     "photo":
                     {
                         "id": "522e535693cd16d02f3cd5ca",
@@ -1720,15 +1720,15 @@ export const mockFoursquareResponse = {
                         "source":
                         {
                             "name": "Foursquare Web",
-                            "url": "https:\/\/foursquare.com"
+                            "url": "https://foursquare.com"
                         },
-                        "prefix": "https:\/\/igx.4sqi.net\/img\/general\/",
-                        "suffix": "\/2611536_Y8x5aWV99GA0huDx4ldUaxVrhkMnQf_i2y69kaCtZoA.jpg",
+                        "prefix": "https://igx.4sqi.net/img/general/",
+                        "suffix": "/2611536_Y8x5aWV99GA0huDx4ldUaxVrhkMnQf_i2y69kaCtZoA.jpg",
                         "width": 233,
                         "height": 132,
                         "visibility": "public"
                     },
-                    "photourl": "https:\/\/igx.4sqi.net\/img\/general\/original\/2611536_Y8x5aWV99GA0huDx4ldUaxVrhkMnQf_i2y69kaCtZoA.jpg",
+                    "photourl": "https://igx.4sqi.net/img/general/original/2611536_Y8x5aWV99GA0huDx4ldUaxVrhkMnQf_i2y69kaCtZoA.jpg",
                     "likes":
                     {
                         "count": 57,
@@ -1749,8 +1749,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/2611536-ZWKHMEGCZWBA3QQY.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/2611536-ZWKHMEGCZWBA3QQY.png"
                         },
                         "type": "page"
                     }
@@ -1806,7 +1806,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Cocktail",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -1818,7 +1818,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 12174,
                         "tipCount": 387
                     },
-                    "url": "http:\/\/www.deadrabbitnyc.com",
+                    "url": "http://www.deadrabbitnyc.com",
                     "price":
                     {
                         "tier": 3,
@@ -1871,10 +1871,10 @@ export const mockFoursquareResponse = {
                 {
                     "id": "52408b6c11d22b2bd1175451",
                     "createdAt": 1379961708,
-                    "text": "\"Suspendered barkeeps ladle grog from festive punch bowls into proper teacups\u2014perhaps the Punch à la Taylor, with whiskey, clementine sherbet, and tamarind nectar.\"",
+                    "text": "'Suspendered barkeeps ladle grog from festive punch bowls into proper teacupsu2014perhaps the Punch à la Taylor, with whiskey, clementine sherbet, and tamarind nectar.'",
                     "type": "user",
-                    "url": "http:\/\/www.newyorker.com\/arts\/reviews\/tables\/2013\/09\/30\/130930gota_GOAT_bartab_lyon",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/52408b6c11d22b2bd1175451",
+                    "url": "http://www.newyorker.com/arts/reviews/tables/2013/09/30/130930gota_GOAT_bartab_lyon",
+                    "canonicalUrl": "https://foursquare.com/item/52408b6c11d22b2bd1175451",
                     "photo":
                     {
                         "id": "52408b6d2fc640e30e276b70",
@@ -1882,15 +1882,15 @@ export const mockFoursquareResponse = {
                         "source":
                         {
                             "name": "Foursquare Web",
-                            "url": "https:\/\/foursquare.com"
+                            "url": "https://foursquare.com"
                         },
-                        "prefix": "https:\/\/igx.4sqi.net\/img\/general\/",
-                        "suffix": "\/2611536_dp7aRwLB9dSNx4QWDL3kaco5BCCyaEFBdh1NsPGyIno.jpg",
+                        "prefix": "https://igx.4sqi.net/img/general/",
+                        "suffix": "/2611536_dp7aRwLB9dSNx4QWDL3kaco5BCCyaEFBdh1NsPGyIno.jpg",
                         "width": 233,
                         "height": 131,
                         "visibility": "public"
                     },
-                    "photourl": "https:\/\/igx.4sqi.net\/img\/general\/original\/2611536_dp7aRwLB9dSNx4QWDL3kaco5BCCyaEFBdh1NsPGyIno.jpg",
+                    "photourl": "https://igx.4sqi.net/img/general/original/2611536_dp7aRwLB9dSNx4QWDL3kaco5BCCyaEFBdh1NsPGyIno.jpg",
                     "likes":
                     {
                         "count": 146,
@@ -1911,8 +1911,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/2611536-ZWKHMEGCZWBA3QQY.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/2611536-ZWKHMEGCZWBA3QQY.png"
                         },
                         "type": "page"
                     }
@@ -1963,7 +1963,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2020,7 +2020,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1500778834,
                     "text": "Open space and nice vibes",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/597411529d6a194f00d9cd84",
+                    "canonicalUrl": "https://foursquare.com/item/597411529d6a194f00d9cd84",
                     "logView": true,
                     "agreeCount": 0,
                     "disagreeCount": 0,
@@ -2036,8 +2036,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/XYAZSNHLLSKR5NJM.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/XYAZSNHLLSKR5NJM.jpg"
                         }
                     }
                 }],
@@ -2092,7 +2092,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2104,7 +2104,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2429,
                         "tipCount": 44
                     },
-                    "url": "http:\/\/theparistavern.com\/",
+                    "url": "http://theparistavern.com/",
                     "price":
                     {
                         "tier": 2,
@@ -2119,8 +2119,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/the-paris-cafe\/3fd66200f964a520b9e81ee3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/3fd66200f964a520b9e81ee3\/device_menu"
+                        "url": "https://foursquare.com/v/the-paris-cafe/3fd66200f964a520b9e81ee3/menu",
+                        "mobileUrl": "https://foursquare.com/v/3fd66200f964a520b9e81ee3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2156,18 +2156,18 @@ export const mockFoursquareResponse = {
                 {
                     "id": "4c7aecaf278eb713e9b45d80",
                     "createdAt": 1283124399,
-                    "text": "Established in 1873, Paris hosted Thomas Edison, Teddy Roosevelt and Butch Cassidy. You can get our free Downtown dining guide at http:\/\/www.downtownny.com\/mapsguides\/",
+                    "text": "Established in 1873, Paris hosted Thomas Edison, Teddy Roosevelt and Butch Cassidy. You can get our free Downtown dining guide at http://www.downtownny.com/mapsguides/",
                     "entities": [
                     {
                         "indices": [130, 167],
                         "type": "url",
                         "object":
                         {
-                            "url": "http:\/\/www.downtownny.com\/mapsguides\/"
+                            "url": "http://www.downtownny.com/mapsguides/"
                         }
                     }],
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4c7aecaf278eb713e9b45d80",
+                    "canonicalUrl": "https://foursquare.com/item/4c7aecaf278eb713e9b45d80",
                     "likes":
                     {
                         "count": 4,
@@ -2189,8 +2189,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/TQWAQFUYL5LWNK2M.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/TQWAQFUYL5LWNK2M.jpg"
                         }
                     }
                 }],
@@ -2218,7 +2218,7 @@ export const mockFoursquareResponse = {
                         "twitter": "porterhousenyc",
                         "facebook": "203756512991990",
                         "facebookUsername": "frauncestavern",
-                        "facebookName": "Fraunces Tavern \/ The Porterhouse Brewing Co."
+                        "facebookName": "Fraunces Tavern / The Porterhouse Brewing Co."
                     },
                     "location":
                     {
@@ -2248,7 +2248,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2260,7 +2260,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 8589,
                         "tipCount": 156
                     },
-                    "url": "http:\/\/www.frauncestavern.com",
+                    "url": "http://www.frauncestavern.com",
                     "price":
                     {
                         "tier": 2,
@@ -2275,8 +2275,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/fraunces-tavern\/507f06e9e4b0d2368fcbada4\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/507f06e9e4b0d2368fcbada4\/device_menu"
+                        "url": "https://foursquare.com/v/fraunces-tavern/507f06e9e4b0d2368fcbada4/menu",
+                        "mobileUrl": "https://foursquare.com/v/507f06e9e4b0d2368fcbada4/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2319,7 +2319,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1360473566,
                     "text": "George Washington drank here...",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/51172ddee4b051a088979ebe",
+                    "canonicalUrl": "https://foursquare.com/item/51172ddee4b051a088979ebe",
                     "likes":
                     {
                         "count": 13,
@@ -2341,8 +2341,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/47900463-ZT4LAMIXWWDN13LO.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/47900463-ZT4LAMIXWWDN13LO.jpg"
                         }
                     }
                 }],
@@ -2396,7 +2396,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2408,7 +2408,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 291,
                         "tipCount": 5
                     },
-                    "url": "http:\/\/thebinc.com",
+                    "url": "http://thebinc.com",
                     "price":
                     {
                         "tier": 2,
@@ -2422,9 +2422,9 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "http:\/\/thebinc.com\/menu\/",
-                        "mobileUrl": "http:\/\/thebinc.com\/menu\/",
-                        "externalUrl": "http:\/\/thebinc.com\/menu\/"
+                        "url": "http://thebinc.com/menu/",
+                        "mobileUrl": "http://thebinc.com/menu/",
+                        "externalUrl": "http://thebinc.com/menu/"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2457,7 +2457,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1494896701,
                     "text": "Everything is good here! Amazing custom cocktails. The bartenders really know their stuff.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/591a503d446ea6340d408c4a",
+                    "canonicalUrl": "https://foursquare.com/item/591a503d446ea6340d408c4a",
                     "logView": true,
                     "agreeCount": 0,
                     "disagreeCount": 0,
@@ -2473,8 +2473,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/519176-DFDV0IRPTEOKE013.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/519176-DFDV0IRPTEOKE013.jpg"
                         }
                     }
                 }],
@@ -2529,7 +2529,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Pub",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2541,7 +2541,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 3459,
                         "tipCount": 55
                     },
-                    "url": "http:\/\/henrystreetalehouse-hub.com",
+                    "url": "http://henrystreetalehouse-hub.com",
                     "price":
                     {
                         "tier": 2,
@@ -2556,8 +2556,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/henry-street-ale-house\/40788a80f964a5206ef21ee3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/40788a80f964a5206ef21ee3\/device_menu"
+                        "url": "https://foursquare.com/v/henry-street-ale-house/40788a80f964a5206ef21ee3/menu",
+                        "mobileUrl": "https://foursquare.com/v/40788a80f964a5206ef21ee3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2595,7 +2595,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1243195512,
                     "text": "order the mannequin piss",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4a19a87870c603bb60288eb4",
+                    "canonicalUrl": "https://foursquare.com/item/4a19a87870c603bb60288eb4",
                     "likes":
                     {
                         "count": 13,
@@ -2617,8 +2617,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/_1233874761.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/_1233874761.jpg"
                         }
                     }
                 }],
@@ -2673,7 +2673,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Wine Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/winery_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2685,7 +2685,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 3739,
                         "tipCount": 101
                     },
-                    "url": "http:\/\/www.Vintrystonestnyc.com",
+                    "url": "http://www.Vintrystonestnyc.com",
                     "price":
                     {
                         "tier": 3,
@@ -2700,8 +2700,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/vintry-wine--whiskey\/4b11a5e0f964a5205c8123e3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4b11a5e0f964a5205c8123e3\/device_menu"
+                        "url": "https://foursquare.com/v/vintry-wine--whiskey/4b11a5e0f964a5205c8123e3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4b11a5e0f964a5205c8123e3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2738,8 +2738,8 @@ export const mockFoursquareResponse = {
                     "createdAt": 1277909977,
                     "text": "95 of the wines in the 495-strong collection here can be bought in two-ounce tastes or five-ounce glasses, with prices starting at $3.50. Our pick for Where to Drink near Wall Street.",
                     "type": "user",
-                    "url": "http:\/\/nymag.com\/nightlife\/wheretodrink\/2010\/wall-street\/",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4c2b5bd9b5fbb713de9249df",
+                    "url": "http://nymag.com/nightlife/wheretodrink/2010/wall-street/",
+                    "canonicalUrl": "https://foursquare.com/item/4c2b5bd9b5fbb713de9249df",
                     "likes":
                     {
                         "count": 6,
@@ -2760,8 +2760,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/DT4PCEZ2F45CQMX1.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/DT4PCEZ2F45CQMX1.png"
                         },
                         "type": "page"
                     }
@@ -2817,7 +2817,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Wine Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/winery_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2829,7 +2829,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2445,
                         "tipCount": 49
                     },
-                    "url": "http:\/\/www.brooklynheightswinebar.com",
+                    "url": "http://www.brooklynheightswinebar.com",
                     "price":
                     {
                         "tier": 2,
@@ -2844,8 +2844,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/brooklyn-heights-wine-bar\/4a3103cdf964a5208b991fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4a3103cdf964a5208b991fe3\/device_menu"
+                        "url": "https://foursquare.com/v/brooklyn-heights-wine-bar/4a3103cdf964a5208b991fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4a3103cdf964a5208b991fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -2882,7 +2882,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1288993116,
                     "text": "Try the Moonburn! ",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4cd4795cab19a093899139eb",
+                    "canonicalUrl": "https://foursquare.com/item/4cd4795cab19a093899139eb",
                     "likes":
                     {
                         "count": 2,
@@ -2904,8 +2904,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/OFZXAN45ZUUEFI0K.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/OFZXAN45ZUUEFI0K.jpg"
                         }
                     }
                 }],
@@ -2954,7 +2954,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Lounge",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/default_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -2999,7 +2999,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1502143670,
                     "text": "The drinks are small and overpriced, even for NYC, but it's a nice setting.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/5988e4b63abcaf544aad4b32",
+                    "canonicalUrl": "https://foursquare.com/item/5988e4b63abcaf544aad4b32",
                     "logView": true,
                     "agreeCount": 0,
                     "disagreeCount": 0,
@@ -3015,8 +3015,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/159476-00OKUUXHP2DSPN5E"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/159476-00OKUUXHP2DSPN5E"
                         }
                     }
                 }],
@@ -3070,7 +3070,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Sandwiches",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3082,7 +3082,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2087,
                         "tipCount": 51
                     },
-                    "url": "http:\/\/shortysnyc.com",
+                    "url": "http://shortysnyc.com",
                     "price":
                     {
                         "tier": 2,
@@ -3094,7 +3094,7 @@ export const mockFoursquareResponse = {
                     "delivery":
                     {
                         "id": "27941",
-                        "url": "http:\/\/www.seamless.com\/food-delivery\/restaurant.27941.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+                        "url": "http://www.seamless.com/food-delivery/restaurant.27941.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
                         "provider":
                         {
                             "name": "seamless"
@@ -3139,7 +3139,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1373656591,
                     "text": "The Italian fries are a must have!!!",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/51e0560f498e13baea522dbf",
+                    "canonicalUrl": "https://foursquare.com/item/51e0560f498e13baea522dbf",
                     "likes":
                     {
                         "count": 4,
@@ -3161,8 +3161,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/45624163-Z1H2U2MUIS5ID01A.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/45624163-Z1H2U2MUIS5ID01A.jpg"
                         }
                     }
                 }],
@@ -3218,7 +3218,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Cocktail",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/cocktails_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3230,7 +3230,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 566,
                         "tipCount": 23
                     },
-                    "url": "http:\/\/thegrowlernyc.com\/underdog.cfm",
+                    "url": "http://thegrowlernyc.com/underdog.cfm",
                     "price":
                     {
                         "tier": 2,
@@ -3274,7 +3274,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1398086761,
                     "text": "Find this new hidden cocktail bar by stepping into The Growler and heading downstairs to the basement.  Worth the trip.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/53551c6911d2a8d00f113fa0",
+                    "canonicalUrl": "https://foursquare.com/item/53551c6911d2a8d00f113fa0",
                     "likes":
                     {
                         "count": 3,
@@ -3295,8 +3295,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/W2XL0YQ043U0JCIP.png"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/W2XL0YQ043U0JCIP.png"
                         },
                         "type": "page"
                     }
@@ -3355,7 +3355,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3367,7 +3367,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 2646,
                         "tipCount": 52
                     },
-                    "url": "http:\/\/www.keg229.com",
+                    "url": "http://www.keg229.com",
                     "price":
                     {
                         "tier": 2,
@@ -3380,7 +3380,7 @@ export const mockFoursquareResponse = {
                     "delivery":
                     {
                         "id": "32231",
-                        "url": "http:\/\/www.seamless.com\/food-delivery\/restaurant.32231.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+                        "url": "http://www.seamless.com/food-delivery/restaurant.32231.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
                         "provider":
                         {
                             "name": "seamless"
@@ -3391,8 +3391,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/keg-no-229\/4cf9b6072d80a1439bf13fd8\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4cf9b6072d80a1439bf13fd8\/device_menu"
+                        "url": "https://foursquare.com/v/keg-no-229/4cf9b6072d80a1439bf13fd8/menu",
+                        "mobileUrl": "https://foursquare.com/v/4cf9b6072d80a1439bf13fd8/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -3430,7 +3430,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1300057061,
                     "text": "Flying dog doggie style is legit-add some Mac n cheese balls...you'll thank me later",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4d7d4be5e04d6ea83ae00ad6",
+                    "canonicalUrl": "https://foursquare.com/item/4d7d4be5e04d6ea83ae00ad6",
                     "likes":
                     {
                         "count": 7,
@@ -3452,8 +3452,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/NDP4ORB3FE4OSMWC.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/NDP4ORB3FE4OSMWC.jpg"
                         }
                     }
                 }],
@@ -3507,7 +3507,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3519,7 +3519,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 6540,
                         "tipCount": 105
                     },
-                    "url": "http:\/\/www.thegrowlernyc.com",
+                    "url": "http://www.thegrowlernyc.com",
                     "price":
                     {
                         "tier": 2,
@@ -3534,8 +3534,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/the-growler-bites--brews\/4e74dadec65bb91db41824b4\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4e74dadec65bb91db41824b4\/device_menu"
+                        "url": "https://foursquare.com/v/the-growler-bites--brews/4e74dadec65bb91db41824b4/menu",
+                        "mobileUrl": "https://foursquare.com/v/4e74dadec65bb91db41824b4/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -3579,7 +3579,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1348681137,
                     "text": "DIY bloody mary bar (all you can drink) with vodkas that they infuse themselves (horseradish, chili & bacon.) SO GOOD.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/50633db1e4b0c2be594531ed",
+                    "canonicalUrl": "https://foursquare.com/item/50633db1e4b0c2be594531ed",
                     "likes":
                     {
                         "count": 9,
@@ -3601,8 +3601,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/KZNUNVVTGTE4QH45.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/KZNUNVVTGTE4QH45.jpg"
                         }
                     }
                 }],
@@ -3657,7 +3657,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Mexican",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/mexican_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3669,7 +3669,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 9702,
                         "tipCount": 169
                     },
-                    "url": "http:\/\/www.maddogandbeans.com",
+                    "url": "http://www.maddogandbeans.com",
                     "price":
                     {
                         "tier": 2,
@@ -3682,7 +3682,7 @@ export const mockFoursquareResponse = {
                     "delivery":
                     {
                         "id": "276933",
-                        "url": "http:\/\/www.grubhub.com\/order_redir.jsp?custId=276933&affId=1131",
+                        "url": "http://www.grubhub.com/order_redir.jsp?custId=276933&affId=1131",
                         "provider":
                         {
                             "name": "grubhub"
@@ -3693,8 +3693,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/mad-dog--beans-mexican-cantina\/4a15a2e8f964a520a9781fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4a15a2e8f964a520a9781fe3\/device_menu"
+                        "url": "https://foursquare.com/v/mad-dog--beans-mexican-cantina/4a15a2e8f964a520a9781fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4a15a2e8f964a520a9781fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -3736,7 +3736,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1275797702,
                     "text": "Get the Guacamole!!!",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4c0b20c632daef3b3dc64b50",
+                    "canonicalUrl": "https://foursquare.com/item/4c0b20c632daef3b3dc64b50",
                     "likes":
                     {
                         "count": 14,
@@ -3758,8 +3758,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/R1ZY2GIPUHOI2T5B.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/R1ZY2GIPUHOI2T5B.jpg"
                         }
                     }
                 }],
@@ -3808,7 +3808,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3820,7 +3820,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 19370,
                         "tipCount": 226
                     },
-                    "url": "http:\/\/www.ulyssesnyc.com",
+                    "url": "http://www.ulyssesnyc.com",
                     "price":
                     {
                         "tier": 2,
@@ -3835,8 +3835,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/ulysses-folk-house\/4116be80f964a520fc0b1fe3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/4116be80f964a520fc0b1fe3\/device_menu"
+                        "url": "https://foursquare.com/v/ulysses-folk-house/4116be80f964a520fc0b1fe3/menu",
+                        "mobileUrl": "https://foursquare.com/v/4116be80f964a520fc0b1fe3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -3884,7 +3884,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1252121741,
                     "text": "get wasted",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4aa1dc8d70c603bb776b8eb4",
+                    "canonicalUrl": "https://foursquare.com/item/4aa1dc8d70c603bb776b8eb4",
                     "likes":
                     {
                         "count": 23,
@@ -3906,8 +3906,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/27195-CQHVHRZKSQG5SD3D.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/27195-CQHVHRZKSQG5SD3D.jpg"
                         }
                     }
                 }],
@@ -3964,7 +3964,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Pub",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -3976,7 +3976,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 9053,
                         "tipCount": 102
                     },
-                    "url": "http:\/\/www.stonestreettavernnyc.com",
+                    "url": "http://www.stonestreettavernnyc.com",
                     "price":
                     {
                         "tier": 2,
@@ -3989,7 +3989,7 @@ export const mockFoursquareResponse = {
                     "delivery":
                     {
                         "id": "3570",
-                        "url": "http:\/\/www.seamless.com\/food-delivery\/restaurant.3570.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
+                        "url": "http://www.seamless.com/food-delivery/restaurant.3570.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink",
                         "provider":
                         {
                             "name": "seamless"
@@ -4000,9 +4000,9 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/stone-street-tavern\/3fd66200f964a520d7e41ee3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/3fd66200f964a520d7e41ee3\/device_menu",
-                        "externalUrl": "http:\/\/www.listingextensions.com\/f43115baa3\/3970772434\/menu"
+                        "url": "https://foursquare.com/v/stone-street-tavern/3fd66200f964a520d7e41ee3/menu",
+                        "mobileUrl": "https://foursquare.com/v/3fd66200f964a520d7e41ee3/device_menu",
+                        "externalUrl": "http://www.listingextensions.com/f43115baa3/3970772434/menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -4038,10 +4038,10 @@ export const mockFoursquareResponse = {
                 {
                     "id": "4fe49555e4b090323d901694",
                     "createdAt": 1340380501,
-                    "text": "Get here for the Off-Menu \"Elvis Burger.\" This LaFrieda brisket patty comes topped with crispy bacon and (seriously) a dollop of peanut butter. Pair w\/ a beer flight that includes Bluepoint Blueberry.",
+                    "text": "Get here for the Off-Menu 'Elvis Burger.' This LaFrieda brisket patty comes topped with crispy bacon and (seriously) a dollop of peanut butter. Pair w/ a beer flight that includes Bluepoint Blueberry.",
                     "type": "user",
-                    "url": "http:\/\/thrl.st\/KpXfxx",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4fe49555e4b090323d901694",
+                    "url": "http://thrl.st/KpXfxx",
+                    "canonicalUrl": "https://foursquare.com/item/4fe49555e4b090323d901694",
                     "photo":
                     {
                         "id": "4fe495551081b23ada38b62b",
@@ -4049,15 +4049,15 @@ export const mockFoursquareResponse = {
                         "source":
                         {
                             "name": "Foursquare Web",
-                            "url": "https:\/\/foursquare.com"
+                            "url": "https://foursquare.com"
                         },
-                        "prefix": "https:\/\/igx.4sqi.net\/img\/general\/",
-                        "suffix": "\/3wz4uGlqFXfi8zd5EniEelNRvPrmbT3yrwSirCvKUjA.jpg",
+                        "prefix": "https://igx.4sqi.net/img/general/",
+                        "suffix": "/3wz4uGlqFXfi8zd5EniEelNRvPrmbT3yrwSirCvKUjA.jpg",
                         "width": 554,
                         "height": 375,
                         "visibility": "public"
                     },
-                    "photourl": "https:\/\/igx.4sqi.net\/img\/general\/original\/3wz4uGlqFXfi8zd5EniEelNRvPrmbT3yrwSirCvKUjA.jpg",
+                    "photourl": "https://igx.4sqi.net/img/general/original/3wz4uGlqFXfi8zd5EniEelNRvPrmbT3yrwSirCvKUjA.jpg",
                     "likes":
                     {
                         "count": 40,
@@ -4078,8 +4078,8 @@ export const mockFoursquareResponse = {
                         "gender": "none",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/EAJSSAI10XFPJI2X.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/EAJSSAI10XFPJI2X.jpg"
                         },
                         "type": "page"
                     }
@@ -4134,7 +4134,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Dive Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/divebar_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -4192,7 +4192,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1279170008,
                     "text": "On Fridays ask Amethyst to sing Heart's 'Alone'.",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/4c3e95d8b0379521e2379ba7",
+                    "canonicalUrl": "https://foursquare.com/item/4c3e95d8b0379521e2379ba7",
                     "likes":
                     {
                         "count": 6,
@@ -4214,8 +4214,8 @@ export const mockFoursquareResponse = {
                         "gender": "female",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/WAW03BWOUFGJBXKQ.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/WAW03BWOUFGJBXKQ.jpg"
                         }
                     }
                 }],
@@ -4270,7 +4270,7 @@ export const mockFoursquareResponse = {
                         "shortName": "Dive Bar",
                         "icon":
                         {
-                            "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/divebar_",
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/divebar_",
                             "suffix": ".png"
                         },
                         "primary": true
@@ -4282,7 +4282,7 @@ export const mockFoursquareResponse = {
                         "usersCount": 5510,
                         "tipCount": 64
                     },
-                    "url": "http:\/\/www.jeremysalehouse.com",
+                    "url": "http://www.jeremysalehouse.com",
                     "price":
                     {
                         "tier": 1,
@@ -4297,8 +4297,8 @@ export const mockFoursquareResponse = {
                         "type": "Menu",
                         "label": "Menu",
                         "anchor": "View Menu",
-                        "url": "https:\/\/foursquare.com\/v\/jeremys-ale-house\/3fd66200f964a520bce81ee3\/menu",
-                        "mobileUrl": "https:\/\/foursquare.com\/v\/3fd66200f964a520bce81ee3\/device_menu"
+                        "url": "https://foursquare.com/v/jeremys-ale-house/3fd66200f964a520bce81ee3/menu",
+                        "mobileUrl": "https://foursquare.com/v/3fd66200f964a520bce81ee3/device_menu"
                     },
                     "allowMenuUrlEdit": true,
                     "beenHere":
@@ -4341,7 +4341,7 @@ export const mockFoursquareResponse = {
                     "createdAt": 1393116213,
                     "text": "Dive bar alright",
                     "type": "user",
-                    "canonicalUrl": "https:\/\/foursquare.com\/item\/53094435498e69fe86de4683",
+                    "canonicalUrl": "https://foursquare.com/item/53094435498e69fe86de4683",
                     "likes":
                     {
                         "count": 10,
@@ -4362,8 +4362,8 @@ export const mockFoursquareResponse = {
                         "gender": "male",
                         "photo":
                         {
-                            "prefix": "https:\/\/igx.4sqi.net\/img\/user\/",
-                            "suffix": "\/61041382-COC13331LC3RBSNT.jpg"
+                            "prefix": "https://igx.4sqi.net/img/user/",
+                            "suffix": "/61041382-COC13331LC3RBSNT.jpg"
                         }
                     }
                 }],
@@ -4371,4 +4371,4 @@ export const mockFoursquareResponse = {
             }]
         }]
     }
-}
+};
