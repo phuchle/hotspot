@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MapContainer renders without crashing 1`] = `
+<div
+  className="map-container"
+>
+  <div
+    className="map-container"
+  />
+  <div />
+</div>
+`;
