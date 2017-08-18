@@ -2,6 +2,7 @@ import React from 'react';
 import LocationInput from './LocationInput';
 import { Grid, Row, Col } from 'react-bootstrap';
 import { findHotspots } from '../utils/api';
+import PropTypes from 'prop-types';
 
 const Home = props => {
   const handleLocationSubmit = locationObj => {
@@ -40,6 +41,11 @@ const Home = props => {
       </Row>
     </Grid>
   );
+};
+
+Home.propTypes = {
+  history: PropTypes.object.isRequired,
+  location: PropTypes.object.isRequired,
 };
 
 export default Home;

@@ -1,5 +1,6 @@
 import React from 'react';
 import { withGoogleMap, GoogleMap } from 'react-google-maps';
+import PropTypes from 'prop-types';
 
 const MapWrapper = withGoogleMap(props => (
   <GoogleMap
@@ -15,6 +16,10 @@ const MapContainer = props => {
       mapElement={<div className="map-container" />}
     />
   );
+};
+
+MapContainer.propTypes = {
+  location: PropTypes.object.isRequired,
 };
 
 export default MapContainer;
