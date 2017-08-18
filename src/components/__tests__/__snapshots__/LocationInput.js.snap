@@ -2,7 +2,6 @@
 
 exports[`LocationInput renders without crashing 1`] = `
 <form
-  className="form-inline"
   onSubmit={[Function]}
   style={undefined}
 >

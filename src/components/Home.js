@@ -31,6 +31,10 @@ const Home = props => {
           </h1>
           <LocationInput
             handleSubmit={handleLocationSubmit}
+            formStyle={{
+              display: 'flex',
+              flexDirection: 'row',
+            }}
           />
         </Col>
       </Row>

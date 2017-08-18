@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Form, FormControl, Button } from 'react-bootstrap';
+import { FormControl, Button } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 
 class LocationInput extends Component {
