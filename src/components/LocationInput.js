@@ -26,12 +26,16 @@ class LocationInput extends Component {
   }
   render() {
     return (
-      <Form
-        inline
+      <form
         style={this.props.formStyle}
         onSubmit={(event) => {
           event.preventDefault();
-          this.props.handleSubmit(this.state);
+          if (!this.state.location) {
+            this.setState({ location: 'San Jose'},
+            this.props.handleSubmit(this.state)
+          );} else {
+            this.props.handleSubmit(this.state);
+          }
         }}
       >
         <FormControl
@@ -54,7 +58,7 @@ class LocationInput extends Component {
         >
           Search!
         </Button>
-      </Form>
+      </form>
     );
   }
 }

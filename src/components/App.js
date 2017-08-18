@@ -13,8 +13,12 @@ class App extends Component {
         <Route path="/" component={Nav} />
 
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route path="/map" component={MapContainer} />
+          <Route exact path="/" render={({ history }) => (
+            <Home history={history} />
+          )} />
+          <Route path="/map" render={({ location }) => (
+            <MapContainer location={location} />
+          )} />
         </Switch>
       </div>
     );

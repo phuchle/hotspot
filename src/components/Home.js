@@ -1,14 +1,20 @@
 import React from 'react';
 import LocationInput from './LocationInput';
 import { Grid, Row, Col } from 'react-bootstrap';
-import { searchFoursquare } from '../utils/api';
-
-const handleLocationSubmit = locationObj => {
-  const { destination, location} = locationObj;
-  searchFoursquare(destination, location);
-};
+import { findHotspots } from '../utils/api';
 
 const Home = props => {
+  const handleLocationSubmit = locationObj => {
+    let { destination, location} = locationObj;
+    const hotspots = findHotspots(destination, location);
+
+    props.history.push({
+      pathname: 'map',
+      location: {
+        state: { ...hotspots }
+      }
+    });
+  };
   return (
     <Grid>
       <Row>
