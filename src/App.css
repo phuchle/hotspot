@@ -1,3 +1,7 @@
 html, body {
   color: #333;
 }
+.map-container {
+  width: 100vw;
+  height: calc(calc(100vh) - 50px);
+}

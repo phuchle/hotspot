@@ -4,7 +4,7 @@ import { Navbar, Nav, NavItem } from 'react-bootstrap';
 
 const Navigation = (props) => {
   return (
-    <Navbar>
+    <Navbar style={{ marginBottom: '0' }}>
       <Navbar.Header>
         <Navbar.Brand>
           <Link style={{ color: 'red' }} to="/">
