@@ -14,14 +14,14 @@ const MapWrapper = withGoogleMap(props => {
         let options;
         if (hotspot.venue.id === props.activeHotspot) {
           options = {
-            fillColor: 'green',
-            fillOpacity: .5,
-            strokeColor: '#000',
+            fillColor: 'red',
+            fillOpacity: .8,
+            strokeColor: 'red',
             strokeWeight: 2
           };
         } else {
           options = {
-            fillColor: 'red',
+            fillColor: 'blue',
             fillOpacity: .3,
             strokeColor: '#333',
             strokeWeight: .5
