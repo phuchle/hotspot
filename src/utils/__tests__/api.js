@@ -4,7 +4,7 @@ import MockAdapter from 'axios-mock-adapter';
 import { mockFoursquareResponse } from '../mocks/apiMock';
 
 describe('API calls', () => {
-  test('FourSquare search', () => {
+  describe('FourSquare search', () => {
     const mock = new MockAdapter(axios);
     const destination = 'Drinks';
     const location = 'San Francisco';
@@ -21,14 +21,28 @@ describe('API calls', () => {
     };
     const mockResponse = mockFoursquareResponse;
 
-    mock.onGet(url, { params: params })
+    test('On success', () => {
+      mock.onGet(url, { params: params })
       .reply(200, mockResponse);
 
-    const testCall = searchFoursquare(destination, location);
+      const testCall = searchFoursquare(destination, location);
 
-    // let the promise resolve then test
-    setTimeout(() => {
-      expect(testCall).toEqual(mockResponse.data.response.groups[0].items);
-    }, 0);
+      // let the promise resolve then test
+      setTimeout(() => {
+        expect(testCall).toEqual(mockResponse.data.response.groups[0].items);
+      }, 0);
+    });
+
+    test('On error', () => {
+      mock.onGet(url, { params: params })
+      .reply(400, 'error');
+
+      const testCall = searchFoursquare(destination, location);
+
+      // let the promise resolve then test
+      setTimeout(() => {
+        expect(testCall).toEqual('error');
+      }, 0);
+    });
   });
 });

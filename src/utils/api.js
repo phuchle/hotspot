@@ -16,7 +16,7 @@ export const geocodeLookup = address => {
     .then(response => {
       return response.data.results[0].geometry.location;
     })
-    .catch(error => console.log(error));
+    .catch(error => error);
 };
 
 export const searchFoursquare = (destination, location) => {
@@ -36,14 +36,18 @@ export const searchFoursquare = (destination, location) => {
     .then(response => {
       return response.data.response.groups[0].items;
     })
-    .catch(error => console.log(error));
+    .catch(error => error);
 };
 
 // calls both searches, then returns them as a single obj
 export const findHotspots = (destination, location) => {
   return axios.all([geocodeLookup(location), searchFoursquare(destination, location)])
     .then(axios.spread((mapCenter, hotspots) => {
-      return { destination, location, mapCenter, hotspots };
+      return {
+        data: {
+          destination, location, mapCenter, hotspots
+        }
+      };
     })
-  );
+  ).catch(error => error);
 };
