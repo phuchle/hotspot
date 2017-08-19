@@ -3,7 +3,6 @@ import { ListGroup, ListGroupItem } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 
 const Sidebar = props => {
-  console.log(props);
   return (
     <div className="sidebar" style={props.style}>
       <h3>{props.destination} in {props.location}</h3>
@@ -12,14 +11,21 @@ const Sidebar = props => {
           const venue = hotspot.venue;
           const url = `https://www.google.com/maps?saddr=My+Location&daddr=${venue.location.address} ${venue.location.city}, ${venue.location.state} ${venue.location.postalCode}`;
 
-          console.log(hotspot);
           return (
-            <ListGroupItem>
-              <strong>{hotspot.venue.name}</strong>
-              <p>Rating: {venue.rating}</p>
+            <ListGroupItem
+              key={venue.id}
+            >
+              <strong
+                className="hotspot-list-item"
+                onMouseDown={() => props.setHotspot(venue)}
+              >
+                {hotspot.venue.name}
+              </strong>
+              <p style={{ color: '#088f00'}}>Rating: {venue.rating}</p>
+              <p>{hotspot.tips && hotspot.tips[0].text}</p>
+              <p>Directions:</p>
               <a href={url}>
-                <p>
-                  Address:
+                <div>
                   <p style={{ margin: 0 }}>
                     {venue.location.address}
                   </p>
@@ -29,8 +35,7 @@ const Sidebar = props => {
                   <p style={{ margin: 0 }}>
                     {venue.location.postalCode}
                   </p>
-                  {venue.contact && venue.contact.formattedPhone && (<p>Phone Number: {venue.contact.formattedPhone}</p>)}
-                </p>
+                </div>
               </a>
             </ListGroupItem>
           );

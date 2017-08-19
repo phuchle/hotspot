@@ -6,6 +6,12 @@ html, body {
   height: calc(50vh - 50px);
 }
 
+.hotspot-list-item:hover {
+  color: #b60000;
+  cursor: pointer;
+  transition-duration: .5s;
+}
+
 /* equivalent to bootstrap sm */
 @media (min-width: 768px) {
   .map-container, .sidebar {
