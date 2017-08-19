@@ -24,7 +24,7 @@ export const searchFoursquare = (destination, location) => {
   const params = {
     query: destination,
     near: location,
-    limit: '20',
+    limit: '50',
     intent: 'browse',
     client_id: foursquare_id,
     client_secret: foursquare_secret,
