@@ -11,15 +11,15 @@ const MapWrapper = withGoogleMap(props => {
       defaultCenter={center}
     >
       {props.location.state.hotspots.map(hotspot => {
-        // console.log(hotspot.venue.location);
+        console.log(hotspot.venue.stats.checkinsCount);
         return (<Circle
           key={hotspot.venue.id}
           center={ {lat: hotspot.venue.location.lat, lng: hotspot.venue.location.lng} }
-          radius={hotspot.venue.rating * 30 }
+          radius={hotspot.venue.stats.checkinsCount / 100}
           options={{
             fillColor: 'red',
-            fillOpacity: .3,
-            strokeColor: 'white',
+            fillOpacity: .5,
+            strokeColor: '#333',
             strokeWeight: .5
           }}
         />);
