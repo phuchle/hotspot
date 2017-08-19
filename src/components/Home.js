@@ -1,46 +1,56 @@
-import React from 'react';
+import React, { Component } from 'react';
 import LocationInput from './LocationInput';
 import { Grid, Row, Col } from 'react-bootstrap';
 import { findHotspots } from '../utils/api';
 import PropTypes from 'prop-types';
 
-const Home = props => {
-  const handleLocationSubmit = locationObj => {
-    let { destination, location} = locationObj;
-    const hotspots = findHotspots(destination, location);
+class Home extends Component {
+  constructor(props) {
+    super(props);
 
-    props.history.push({
-      pathname: 'map',
-      location: {
-        state: { ...hotspots }
-      }
-    });
+    this.state = {
+      fireRedirect: false
+    };
+
+    this.handleLocationSubmit = this.handleLocationSubmit.bind(this);
+  }
+  handleLocationSubmit(locationObj) {
+    let { destination, location} = locationObj;
+    findHotspots(destination, location)
+      .then(hotspots => {
+        this.props.history.push({
+          pathname: '/map',
+          state: hotspots
+        });
+      });
   };
-  return (
-    <Grid>
-      <Row>
-        <Col
-          sm={8}
-          smOffset={2}
-          md={6}
-          mdOffset={3}
-          lg={6}
-          lgOffset={3}
-        >
-          <h1 style={{color: 'red'}}>
-            HotSpot
-          </h1>
-          <LocationInput
-            handleSubmit={handleLocationSubmit}
-            formStyle={{
-              display: 'flex',
-              flexDirection: 'row',
-            }}
-          />
-        </Col>
-      </Row>
-    </Grid>
-  );
+  render() {
+    return (
+      <Grid>
+        <Row>
+          <Col
+            sm={8}
+            smOffset={2}
+            md={6}
+            mdOffset={3}
+            lg={6}
+            lgOffset={3}
+          >
+            <h1 style={{color: 'red'}}>
+              HotSpot
+            </h1>
+            <LocationInput
+              handleSubmit={this.handleLocationSubmit}
+              formStyle={{
+                display: 'flex',
+                flexDirection: 'row',
+              }}
+            />
+          </Col>
+        </Row>
+      </Grid>
+    );
+  }
 };
 
 Home.propTypes = {

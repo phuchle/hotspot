@@ -2,16 +2,20 @@ import React from 'react';
 import { withGoogleMap, GoogleMap } from 'react-google-maps';
 import PropTypes from 'prop-types';
 
-const MapWrapper = withGoogleMap(props => (
+const MapWrapper = withGoogleMap(props => {
+  const sanJoseCoords = { lat: 37.3382, lng: -121.8863 };
+  const center = props.defaultCenter || sanJoseCoords;
+  return (
   <GoogleMap
-    defaultZoom={14}
-    defaultCenter={{ lat: 37.3382, lng: -121.8863 }}
-  />
-));
+    defaultZoom={12}
+    defaultCenter={center}
+  /> );
+});
 
 const MapContainer = props => {
   return (
     <MapWrapper
+      defaultCenter={props.location.state.mapCenter}
       containerElement={<div className="map-container" />}
       mapElement={<div className="map-container" />}
     />
