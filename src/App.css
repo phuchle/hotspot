@@ -1,7 +1,14 @@
 html, body {
   color: #333;
 }
-.map-container {
-  width: 100vw;
-  height: calc(calc(100vh) - 50px);
+
+.map-container, .sidebar {
+  height: calc(50vh - 50px);
+}
+
+/* equivalent to bootstrap sm */
+@media (min-width: 768px) {
+  .map-container, .sidebar {
+    height: calc(100vh - 50px);
+  }
 }

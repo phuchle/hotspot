@@ -1,5 +1,7 @@
 import React from 'react';
 import { withGoogleMap, GoogleMap, Circle } from 'react-google-maps';
+import { Grid, Row, Col } from 'react-bootstrap';
+import Sidebar from './Sidebar';
 import PropTypes from 'prop-types';
 
 const MapWrapper = withGoogleMap(props => {
@@ -7,7 +9,7 @@ const MapWrapper = withGoogleMap(props => {
   const center = props.defaultCenter || sanJoseCoords;
   return (
     <GoogleMap
-      defaultZoom={12}
+      defaultZoom={14}
       defaultCenter={center}
     >
       {props.location.state.hotspots.map(hotspot => {
@@ -31,12 +33,28 @@ const MapWrapper = withGoogleMap(props => {
 
 const MapContainer = props => {
   return (
-    <MapWrapper
-      defaultCenter={props.location.state.mapCenter}
-      location={props.location}
-      containerElement={<div className="map-container" />}
-      mapElement={<div className="map-container" />}
-    />
+    <Grid>
+      <Row>
+        <Col xs={12} sm={8}>
+          <MapWrapper
+            defaultCenter={props.location.state.mapCenter}
+            location={props.location}
+            containerElement={<div className="map-container" />}
+            mapElement={<div className="map-container" />}
+          />
+        </Col>
+        <Col xs={12} sm={4}>
+          <Sidebar
+            hotspots={props.location.state.hotspots}
+            destination={props.location.state.destination}
+            location={props.location.state.location}
+            style={{
+              overflowY: 'scroll'
+            }}
+          />
+        </Col>
+      </Row>
+    </Grid>
   );
 };
 

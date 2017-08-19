@@ -30,11 +30,14 @@ class LocationInput extends Component {
         style={this.props.formStyle}
         onSubmit={(event) => {
           event.preventDefault();
-          if (!this.state.location) {
-            this.setState({ location: 'San Jose'},
-            this.props.handleSubmit(this.state)
-          );} else {
+          if (this.state.location) {
             this.props.handleSubmit(this.state);
+          }
+          else {
+            this.props.handleSubmit({
+              destination: 'Drinks',
+              location: 'San Jose'
+            });
           }
         }}
       >

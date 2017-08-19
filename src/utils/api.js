@@ -43,7 +43,7 @@ export const searchFoursquare = (destination, location) => {
 export const findHotspots = (destination, location) => {
   return axios.all([geocodeLookup(location), searchFoursquare(destination, location)])
     .then(axios.spread((mapCenter, hotspots) => {
-      return { mapCenter, hotspots };
+      return { destination, location, mapCenter, hotspots };
     })
   );
 };
